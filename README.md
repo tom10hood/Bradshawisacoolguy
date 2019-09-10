@@ -1,12 +1,5 @@
 <html>
     <head>
-        <title></title>
-        <style> 
-            td {border:3px solid black;
-            border-right:none;
-            border bottom:auto
-            }
-        </style>
     <body>
         <h1>Introductions</h1>
         <p>Detective Bradshaw was relaxing in his office drinking a cup of coffee when he heard the front door to his office swing open. A new client had entered the building and it was time for Bradshaw to serve up some justice. </p>
